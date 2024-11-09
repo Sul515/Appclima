@@ -1,0 +1,583 @@
+{
+  "Bogotá": {
+    "temperature": 19.73,
+    "condition": "nubes dispersas",
+    "date": "09-11-2024",
+    "humidity": 52,
+    "wind_speed": 5.14
+  },
+  "Medellín": {
+    "temperature": 25.82,
+    "condition": "nubes dispersas",
+    "date": "09-11-2024",
+    "humidity": 47,
+    "wind_speed": 8.23
+  },
+  "Cali": {
+    "temperature": 27,
+    "condition": "muy nuboso",
+    "date": "09-11-2024",
+    "humidity": 54,
+    "wind_speed": 2.57
+  },
+  "Cartagena": {
+    "temperature": 27.79,
+    "condition": "lluvia ligera",
+    "date": "09-11-2024",
+    "humidity": 78,
+    "wind_speed": 3.6
+  },
+  "Barranquilla": {
+    "temperature": 27.88,
+    "condition": "lluvia ligera",
+    "date": "09-11-2024",
+    "humidity": 74,
+    "wind_speed": 3.6
+  },
+  "Pereira": {
+    "temperature": 24.12,
+    "condition": "algo de nubes",
+    "date": "09-11-2024",
+    "humidity": 58,
+    "wind_speed": 1.79
+  },
+  "Bucaramanga": {
+    "temperature": 25.73,
+    "condition": "nubes dispersas",
+    "date": "09-11-2024",
+    "humidity": 78,
+    "wind_speed": 3.6
+  },
+  "Santa Marta": {
+    "temperature": 29.94,
+    "condition": "lluvia ligera",
+    "date": "09-11-2024",
+    "humidity": 72,
+    "wind_speed": 5.66
+  },
+  "Cúcuta": {
+    "temperature": 29.97,
+    "condition": "nubes dispersas",
+    "date": "09-11-2024",
+    "humidity": 62,
+    "wind_speed": 4.12
+  },
+  "Ibagué": {
+    "temperature": 24.95,
+    "condition": "muy nuboso",
+    "date": "09-11-2024",
+    "humidity": 65,
+    "wind_speed": 3.09
+  },
+  "Manizales": {
+    "temperature": 18.9,
+    "condition": "muy nuboso",
+    "date": "09-11-2024",
+    "humidity": 68,
+    "wind_speed": 3.6
+  },
+  "Pasto": {
+    "temperature": 16.09,
+    "condition": "lluvia ligera",
+    "date": "09-11-2024",
+    "humidity": 75,
+    "wind_speed": 2.37
+  },
+  "Villavicencio": {
+    "temperature": 24.06,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 90,
+    "wind_speed": 0.72
+  },
+  "Tunja": {
+    "temperature": 10.61,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 93,
+    "wind_speed": 1.06
+  },
+  "Armenia": {
+    "temperature": -0.42,
+    "condition": "cielo claro",
+    "date": "09-11-2024",
+    "humidity": 48,
+    "wind_speed": 2.57
+  },
+  "Quibdó": {
+    "temperature": 29.19,
+    "condition": "muy nuboso",
+    "date": "09-11-2024",
+    "humidity": 70,
+    "wind_speed": 1.54
+  },
+  "Sincelejo": {
+    "temperature": 27.18,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 76,
+    "wind_speed": 3.45
+  },
+  "Riohacha": {
+    "temperature": 31.06,
+    "condition": "algo de nubes",
+    "date": "09-11-2024",
+    "humidity": 70,
+    "wind_speed": 4.12
+  },
+  "Popayán": {
+    "temperature": 21.52,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 75,
+    "wind_speed": 1.59
+  },
+  "Montería": {
+    "temperature": 32.95,
+    "condition": "muy nuboso",
+    "date": "09-11-2024",
+    "humidity": 58,
+    "wind_speed": 2.57
+  },
+  "Neiva": {
+    "temperature": 29.94,
+    "condition": "muy nuboso",
+    "date": "09-11-2024",
+    "humidity": 58,
+    "wind_speed": 2.57
+  },
+  "Valledupar": {
+    "temperature": 31.83,
+    "condition": "lluvia ligera",
+    "date": "09-11-2024",
+    "humidity": 58,
+    "wind_speed": 6.17
+  },
+  "Leticia": {
+    "temperature": 25.03,
+    "condition": "muy nuboso",
+    "date": "09-11-2024",
+    "humidity": 88,
+    "wind_speed": 1.03
+  },
+  "San Andrés": {
+    "temperature": 30.01,
+    "condition": "lluvia moderada",
+    "date": "09-11-2024",
+    "humidity": 74,
+    "wind_speed": 3.09
+  },
+  "Piedecuesta": {
+    "temperature": 25.62,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 91,
+    "wind_speed": 0.83
+  },
+  "La Dorada": {
+    "temperature": 29.82,
+    "condition": "muy nuboso",
+    "date": "09-11-2024",
+    "humidity": 65,
+    "wind_speed": 0.42
+  },
+  "Bello": {
+    "temperature": 26.38,
+    "condition": "nubes dispersas",
+    "date": "09-11-2024",
+    "humidity": 47,
+    "wind_speed": 7.2
+  },
+  "Soledad": {
+    "temperature": 28.07,
+    "condition": "lluvia ligera",
+    "date": "09-11-2024",
+    "humidity": 74,
+    "wind_speed": 3.6
+  },
+  "Envigado": {
+    "temperature": 25.44,
+    "condition": "nubes dispersas",
+    "date": "09-11-2024",
+    "humidity": 47,
+    "wind_speed": 8.23
+  },
+  "Yopal": {
+    "temperature": 24.29,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 82,
+    "wind_speed": 1.02
+  },
+  "Tuluá": {
+    "temperature": 26.85,
+    "condition": "muy nuboso",
+    "date": "09-11-2024",
+    "humidity": 60,
+    "wind_speed": 0.8
+  },
+  "Risaralda": {
+    "temperature": 19.84,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 79,
+    "wind_speed": 0.63
+  },
+  "Chía": {
+    "temperature": 19.95,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 84,
+    "wind_speed": 0.68
+  },
+  "Caldas": {
+    "temperature": 24.35,
+    "condition": "nubes dispersas",
+    "date": "09-11-2024",
+    "humidity": 47,
+    "wind_speed": 7.2
+  },
+  "Sucre": {
+    "temperature": 21.51,
+    "condition": "muy nuboso",
+    "date": "09-11-2024",
+    "humidity": 38,
+    "wind_speed": 5.87
+  },
+  "Buga": {
+    "temperature": 26.25,
+    "condition": "muy nuboso",
+    "date": "09-11-2024",
+    "humidity": 64,
+    "wind_speed": 1.7
+  },
+  "Tumaco": {
+    "temperature": 28.56,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 66,
+    "wind_speed": 4.64
+  },
+  "Girardot": {
+    "temperature": 28.85,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 66,
+    "wind_speed": 0.68
+  },
+  "San José del Guaviare": {
+    "temperature": 29.35,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 65,
+    "wind_speed": 2.25
+  },
+  "Sogamoso": {
+    "temperature": 14.06,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 92,
+    "wind_speed": 0.15
+  },
+  "Florencia": {
+    "temperature": 13.08,
+    "condition": "cielo claro",
+    "date": "09-11-2024",
+    "humidity": 79,
+    "wind_speed": 0.51
+  },
+  "Mocoa": {
+    "temperature": 26.06,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 68,
+    "wind_speed": 1.42
+  },
+  "Chinchiná": {
+    "temperature": 23.76,
+    "condition": "muy nuboso",
+    "date": "09-11-2024",
+    "humidity": 64,
+    "wind_speed": 3.6
+  },
+  "Ocaña": {
+    "temperature": 19.44,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 94,
+    "wind_speed": 0.8
+  },
+  "Yumbo": {
+    "temperature": 26.87,
+    "condition": "muy nuboso",
+    "date": "09-11-2024",
+    "humidity": 54,
+    "wind_speed": 2.57
+  },
+  "Turbaco": {
+    "temperature": 26.86,
+    "condition": "algo de nubes",
+    "date": "09-11-2024",
+    "humidity": 78,
+    "wind_speed": 3.6
+  },
+  "El Carmen de Bolívar": {
+    "temperature": 28.41,
+    "condition": "lluvia ligera",
+    "date": "09-11-2024",
+    "humidity": 72,
+    "wind_speed": 3.47
+  },
+  "Honda": {
+    "temperature": 30.23,
+    "condition": "muy nuboso",
+    "date": "09-11-2024",
+    "humidity": 61,
+    "wind_speed": 1.18
+  },
+  "La Ceja": {
+    "temperature": 19.86,
+    "condition": "muy nuboso",
+    "date": "09-11-2024",
+    "humidity": 68,
+    "wind_speed": 8.23
+  },
+  "Puerto Colombia": {
+    "temperature": 28.05,
+    "condition": "lluvia ligera",
+    "date": "09-11-2024",
+    "humidity": 70,
+    "wind_speed": 4.9
+  },
+  "Zipaquirá": {
+    "temperature": 12.33,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 86,
+    "wind_speed": 1.37
+  },
+  "Río Negro": {
+    "temperature": 18.05,
+    "condition": "algo de nubes",
+    "date": "09-11-2024",
+    "humidity": 53,
+    "wind_speed": 3.67
+  },
+  "Caucasia": {
+    "temperature": 30.6,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 62,
+    "wind_speed": 1.27
+  },
+  "Santiago de Tolú": {
+    "temperature": 28.24,
+    "condition": "lluvia ligera",
+    "date": "09-11-2024",
+    "humidity": 73,
+    "wind_speed": 3.14
+  },
+  "Barbosa": {
+    "temperature": 20.84,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 80,
+    "wind_speed": 0.65
+  },
+  "Agustín Codazzi": {
+    "temperature": 31.23,
+    "condition": "lluvia ligera",
+    "date": "09-11-2024",
+    "humidity": 57,
+    "wind_speed": 1.99
+  },
+  "La Virginia": {
+    "temperature": 27.44,
+    "condition": "algo de nubes",
+    "date": "09-11-2024",
+    "humidity": 57,
+    "wind_speed": 1.54
+  },
+  "Palmira": {
+    "temperature": 26.71,
+    "condition": "muy nuboso",
+    "date": "09-11-2024",
+    "humidity": 54,
+    "wind_speed": 2.57
+  },
+  "San Gil": {
+    "temperature": 22.14,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 86,
+    "wind_speed": 1.19
+  },
+  "Santa Rosa de Cabal": {
+    "temperature": 22.35,
+    "condition": "algo de nubes",
+    "date": "09-11-2024",
+    "humidity": 58,
+    "wind_speed": 1.79
+  },
+  "Rionegro": {
+    "temperature": 20.21,
+    "condition": "muy nuboso",
+    "date": "09-11-2024",
+    "humidity": 68,
+    "wind_speed": 8.23
+  },
+  "Fusagasugá": {
+    "temperature": 20.01,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 86,
+    "wind_speed": 1.57
+  },
+  "Calarcá": {
+    "temperature": 19.85,
+    "condition": "muy nuboso",
+    "date": "09-11-2024",
+    "humidity": 72,
+    "wind_speed": 1.79
+  },
+  "Sabaneta": {
+    "temperature": 23.98,
+    "condition": "nubes dispersas",
+    "date": "09-11-2024",
+    "humidity": 47,
+    "wind_speed": 8.23
+  },
+  "Chocontá": {
+    "temperature": 11.73,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 98,
+    "wind_speed": 0.79
+  },
+  "Bojacá": {
+    "temperature": 19.84,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 84,
+    "wind_speed": 1.19
+  },
+  "Anapoima": {
+    "temperature": 26.54,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 76,
+    "wind_speed": 2.04
+  },
+  "Canoas": {
+    "temperature": 23.84,
+    "condition": "nubes dispersas",
+    "date": "09-11-2024",
+    "humidity": 49,
+    "wind_speed": 4.12
+  },
+  "La Vega": {
+    "temperature": 29.47,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 81,
+    "wind_speed": 3.09
+  },
+  "Riosucio": {
+    "temperature": 21.34,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 80,
+    "wind_speed": 1.21
+  },
+  "Montelíbano": {
+    "temperature": 29.4,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 70,
+    "wind_speed": 1.56
+  },
+  "Aracataca": {
+    "temperature": 30.67,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 59,
+    "wind_speed": 2.43
+  },
+  "Magangué": {
+    "temperature": 29.32,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 70,
+    "wind_speed": 1.49
+  },
+  "Aguachica": {
+    "temperature": 27.69,
+    "condition": "muy nuboso",
+    "date": "09-11-2024",
+    "humidity": 78,
+    "wind_speed": 0.72
+  },
+  "El Banco": {
+    "temperature": 28.6,
+    "condition": "muy nuboso",
+    "date": "09-11-2024",
+    "humidity": 67,
+    "wind_speed": 0.54
+  },
+  "Aguazul": {
+    "temperature": 25.27,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 82,
+    "wind_speed": 1.39
+  },
+  "Becerril": {
+    "temperature": 30.3,
+    "condition": "lluvia ligera",
+    "date": "09-11-2024",
+    "humidity": 64,
+    "wind_speed": 1.56
+  },
+  "Chiriguaná": {
+    "temperature": 30.77,
+    "condition": "muy nuboso",
+    "date": "09-11-2024",
+    "humidity": 60,
+    "wind_speed": 2.03
+  },
+  "La Jagua de Ibirico": {
+    "temperature": 29.25,
+    "condition": "lluvia ligera",
+    "date": "09-11-2024",
+    "humidity": 72,
+    "wind_speed": 1.64
+  },
+  "Ciénaga": {
+    "temperature": 30.07,
+    "condition": "nubes dispersas",
+    "date": "09-11-2024",
+    "humidity": 70,
+    "wind_speed": 5.66
+  },
+  "Arenal": {
+    "temperature": 29.61,
+    "condition": "nubes",
+    "date": "09-11-2024",
+    "humidity": 62,
+    "wind_speed": 1.35
+  },
+  "Buenaventura": {
+    "temperature": 30.06,
+    "condition": "nubes dispersas",
+    "date": "09-11-2024",
+    "humidity": 79,
+    "wind_speed": 0
+  },
+  "Santiago de Cali": {
+    "temperature": 27,
+    "condition": "muy nuboso",
+    "date": "09-11-2024",
+    "humidity": 54,
+    "wind_speed": 2.57
+  }
+}
