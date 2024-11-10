@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Barrio&family=Buda:wght@300&family=Crafty+Girls&family=Faculty+Glyphic&family=Forum&family=Joti+One&family=Knewave&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Milonga&family=Noto+Serif+JP:wght@200..900&family=Original+Surfer&family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Rubik+Dirt&display=swap');
+
+
+/* General */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background:
+    url('/image/fondo.jpg') no-repeat center center fixed, 
+    linear-gradient(135deg, #6a11cb, #2575fc); 
+    background-size: cover; 
+    overflow: hidden;
+}
+
+/* Contenedor principal */
+.container {
+    background-color: rgb(255, 255, 255);
+    border-radius: 16px;
+    box-shadow: 0 15px 50px rgba(0, 0, 0, 0.3); /* Sombra suave */
+    padding: 40px 30px;
+    text-align: center;
+    width: 100%;
+    max-width: 500px;
+    transition: all 0.5s ease-in-out;
+    animation: slideIn 1s ease-out;
+}
+
+.container:hover {
+    transform: scale(1.02); 
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
+}
+
+
+h1 {
+    font-family: "Forum", serif;
+    font-size: 34px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    background: linear-gradient(45deg, #9b4dca, #5c6bc0, #ff6f61); /* Azul, lila y un toque de rosa */
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: glow 3s ease-in-out infinite alternate;
+    text-shadow: 0 0 25px rgba(155, 77, 202, 0.8), 0 0 50px rgba(92, 107, 192, 0.7), 0 0 75px rgba(255, 111, 97, 0.6), 0 0 100px rgba(255, 97, 146, 0.5);
+}
+
+@keyframes glow {
+    0% {
+        text-shadow: 0 0 40px #9b4dca, 0 0 80px #5c6bc0, 0 0 120px #ff6f61, 0 0 160px #ff97c9;
+    }
+    100% {
+        text-shadow: 0 0 60px #5c6bc0, 0 0 120px #9b4dca, 0 0 180px #ff6f61, 0 0 220px #ff97c9;
+    }
+}
+
+
+select {
+    padding: 14px;
+    font-size: 16px;
+    width: 85%;
+    margin: 15px 0;
+    border: 2px solid #ddd;
+    border-radius: 12px;
+    background-color: #f9f9f9;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+select:focus {
+    border-color: #2575fc;
+    box-shadow: 0 0 10px rgba(37, 117, 252, 0.6);
+}
+
+/* Botón */
+button {
+    padding: 14px 30px;
+    font-size: 18px;
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    color: white;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: all 0.4s ease;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    position: relative;
+    overflow: hidden;
+}
+
+button:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 300%;
+    height: 300%;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0));
+    transition: all 0.5s ease;
+    transform: translate(-50%, -50%) scale(0);
+    z-index: 1;
+}
+
+button:hover:before {
+    transform: translate(-50%, -50%) scale(1);
+}
+
+button:hover {
+    background: linear-gradient(135deg, #2575fc, #6a11cb);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+
+button:active {
+    transform: scale(0.96);
+}
+
+/* Resultado */
+#resultado {
+    margin-top: 30px;
+    font-size: 24px;
+    color: #333;
+    animation: fadeIn 1s ease;
+}
+
+#resultado h2 {
+    color: #2575fc;
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+#resultado p {
+    margin: 5px 0;
+    font-size: 20px;
+    color: #555;
+}
+
+
+.alert {
+    color: red;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+
+@keyframes slideIn {
+    0% {
+        transform: translateY(50px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
